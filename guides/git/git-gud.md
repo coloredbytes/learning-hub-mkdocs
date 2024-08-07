@@ -1,7 +1,8 @@
 <p align="center">
-  <img src=".resources/images/git.png" alt="Header" width="100" height="100"><br><br>
-  > How to Git Gud 🤖</a>
+  <img src="/_resources/images/git.png" alt="Header" width="100" height="100"><br>
+  <span>How to Git Gud 🤖</span>
 </p>
+
 
 <h1> Welcome :wave: </h1>
 
@@ -38,8 +39,6 @@ As I said it is dead simple. The next step is configuring.
 ## Configuring Git
 
 This part can be weird at times but luckily for you, I have scripted this part.
-
-
 
 
 
