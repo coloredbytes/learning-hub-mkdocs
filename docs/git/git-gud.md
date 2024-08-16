@@ -4,16 +4,7 @@
 </p>
 
 
-<h1> Welcome :wave: </h1>
-
-<h2> :link: Table of Contents </h2>
-
-+ [Intro](#%69%6E%74%72%6F)
-+ [Installing Git](#%69%6E%73%74%61%6C%6C%69%6E%67%2D%67%69%74)
-+ [Configuring Git](#%63%6F%6E%66%69%67%75%72%69%6E%67%2D%67%69%74)
-+ [Adding SSH Keys](#%61%64%64%69%6E%67%2D%73%73%68%2D%6B%65%79%73)
-
-
+# Welcome :wave: 
 
 ## Intro
 

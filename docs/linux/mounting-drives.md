@@ -4,9 +4,8 @@
 </p>
 
 
-<h1> Welcome :wave: </h1>
+# Welcome :wave: 
 
-<h2> :link: Table of Contents </h2>
 
 ## Intro
 
