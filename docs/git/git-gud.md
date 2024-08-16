@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/_resources/images/git.png" alt="Header" width="100" height="100"><br>
+  <img src="./images/git.png" alt="Header" width="100" height="100"><br>
   <span>How to Git Gud 🚀</span>
 </p>
 

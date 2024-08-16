@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/_resources/images/tux.png" alt="Header" width="200" height="200"><br>
+  <img src="./images/tux.png" alt="Header" width="150" height="200"><br>
   <span>How to mount shares in linux 🚀</span>
 </p>
 
