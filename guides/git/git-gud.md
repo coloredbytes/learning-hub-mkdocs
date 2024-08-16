@@ -43,7 +43,7 @@ This part can be weird at times but luckily for you, I have scripted this part.
 
 - Windows
 ```pwsh
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/coloredbytes/learninghub/main/_resources/scripts/git-config.ps1"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/coloredbytes/learninghub/main/_resources/scripts/git-config.ps1" -OutFile "git-config.ps1"
 ```
 - Linux (curl is os agnostic)
 ```shell
