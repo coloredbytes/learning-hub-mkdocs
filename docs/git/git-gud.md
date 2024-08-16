@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="images/git.png" alt="Header" width="100" height="100"><br>
-  <span>How to Git Gud 🚀</span>
-</p>
-
-
+<figure markdown="span">
+![HEADER](./images/git.png){ align=center } { width="100" } { height="100" }
+<figcaption>Setting up Git 🚀 </figcaption>
+</figure>
+ 
 # Welcome :wave: 
 
 ## Intro
