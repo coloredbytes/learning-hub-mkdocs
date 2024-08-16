@@ -1,4 +1,5 @@
 site_name: Learning Hub
+site_url: https://learn.rossjm.dev/
 theme:
     name: material
     features:
