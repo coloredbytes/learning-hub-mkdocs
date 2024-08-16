@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="./images/tux.png" alt="Header" width="150" height="200"><br>
-  <span>How to mount shares in linux 🚀</span>
-</p>
+<figure markdown="span">
+![HEADER](./images/tux.png){ width="216" height="256" }
+<figcaption>Setting up Git 🚀 </figcaption>
+</figure>
 
 
 # Welcome :wave: 
