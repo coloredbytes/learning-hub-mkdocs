@@ -1,5 +1,9 @@
 <figure markdown="span">
+<<<<<<< HEAD
 ![HEADER](docs/linux/images/windows-linux-dev-env.png){ width="269" height="151" }
+=======
+![HEADER](_assets/images/windows-linux-dev-env.png){ width="269" height="151" }
+>>>>>>> a3d137f (moved images to central location.)
 <figcaption>Setting up WSL 🚀 </figcaption>
 </figure>
 

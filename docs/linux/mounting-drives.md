@@ -1,24 +1,24 @@
 <figure markdown="span">
-![HEADER](./images/tux.png){ width="108" height="128" }
+![HEADER](_assets/images/tux.png){ width="108" height="128" }
 <figcaption> Mounting an NFS share. 🚀 </figcaption>
 </figure>
 
 
-# Welcome :wave: 
+# Welcome :wave:
 
 
 ## Intro
 
-Hello Folks, Today We're going to learn one of the cool things in linux and that is mounting an external Network share.
+Hello Folks, Today We're going to learn one of the cool things in Linux and that is mounting an external Network share.
 
 
 ## Setting up the Share
 
-Provided you have the share itself setup. I'll be showing here how to mount the share.
+Provided you have the share already. I'll be showing here how to mount the share.
 
 ### CLI
-    
-First you'll want to make sure you have NFS Client installed.
+
+First, you'll want to make sure you have NFS Client installed.
 
 - **Debian/Ubuntu**:
 
@@ -52,7 +52,7 @@ I'll break down this commands for you here.
 - `/path/to/nfs_share` - Path on the target server.
 - `/mnt/nfs_share` - Where the Share will be mounted on the server.
 
-Once that is done we can test to make sure the share is mounted correctly by running a 
+Once that is done we can test to make sure the share is mounted correctly by running a
 
 ```shell
 df -h | grep nfs
@@ -69,7 +69,7 @@ After that is done go ahead and run a `tail /etc/fstab` to make sure the line ha
 
 After that is all done the mount sould stay persistnet even after reboots.
 
-### Cockpit 
+### Cockpit
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PGCBda3Le9Y?si=ccmR-BPg5JssM-1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -77,7 +77,7 @@ I've shared this video here found on youtube to better show how it'd done. While
 
 
 ## Epilouge
-With all that being said, this is how you can mount shares in Linux. I hope you learned something here, and make sure to come back for more tutorials. 
+With all that being said, this is how you can mount shares in Linux. I hope you learned something here, and make sure to come back for more tutorials.
 
 
 
