@@ -3,7 +3,7 @@ site_url: https://learn.rossjm.dev/
 nav:
   - Home: index.md
   - Git:
-    - Overview: index.md
+    - Overview: git/index.md
     - Setting up Git: git/git-gud.md
   - Linux:
     - Overview: linux/index.md
