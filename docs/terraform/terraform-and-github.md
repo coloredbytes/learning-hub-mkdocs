@@ -1,4 +1,4 @@
-# Installing Terraform
+## Installing Terraform
 
 ### Windows
 ```pwsh
