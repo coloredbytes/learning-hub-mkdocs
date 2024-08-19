@@ -1,5 +1,5 @@
 <figure markdown="span">
-![HEADER](_assets/images/tux.png){ width="108" height="128" }
+![HEADER](/assets/images/tux.png){ width="108" height="128" }
 <figcaption> Mounting an NFS share. 🚀 </figcaption>
 </figure>
 
