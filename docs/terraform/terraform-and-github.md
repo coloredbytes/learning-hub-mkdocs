@@ -30,7 +30,7 @@ sudo yum -y install terraform
 
 
 
-# Setting up your workspace.
+## Setting up your workspace.
 
 I like to create a `terraform` folder in my home directory or somewhere where I'll remember.
 
