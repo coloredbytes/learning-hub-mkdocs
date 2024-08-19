@@ -1,6 +1,6 @@
-<h1 align="center"> Welcome to Learning Hub </h1>
+<h1 align="center"> Welcome to Jersh's Learning Corner </h1>
 
-Welcome to the **LearningHub**! This site is designed to provide practical guides and resources for various technical topics, including setting up development environments and tools. It's a place for you to learn, explore, and apply new skills.
+Welcome to the **Jersh's Learning Corner**! This site is designed to provide practical guides and resources for various technical topics, including setting up development environments and tools. It's a place for you to learn, explore, and apply new skills.
 
 ## Purpose
 
