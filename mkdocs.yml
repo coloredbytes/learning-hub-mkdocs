@@ -5,7 +5,9 @@ nav:
   - Git:
     - Setting up Git: git/git-gud.md
   - Linux:
+    - Home: linux/index.md
     - Setting up NFS Shares: linux/mounting-drives.md
+    - Setting up WSL: linux/wsl/setting-up-wsl.md
 
 
 theme:
