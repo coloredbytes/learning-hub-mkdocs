@@ -9,6 +9,9 @@ nav:
     - Overview: linux/index.md
     - Setting up NFS Shares: linux/mounting-drives.md
     - Setting up WSL: linux/wsl/setting-up-wsl.md
+  - Teraform:
+    - Overview: terraform/index.md
+    - Making a repo with Teraform: terraform/terraform-and-github.md
 
 
 theme:

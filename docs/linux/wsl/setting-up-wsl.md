@@ -1,7 +1,7 @@
----
-title = "Entering The Matrix 👨‍💻"
-description = "How to Install WSL on Windows 11"
----
+<figure markdown="span">
+![HEADER](linux/images/windows-linux-dev-env.png){ width="269" height="151" }
+<figcaption>Setting up WSL 🚀 </figcaption>
+</figure>
 
 ## Install WSL and its Dependencies.
 
@@ -101,7 +101,7 @@ EOF
 
 This config file just setups wsl to act more like a native Linux system. But Also specifies the default user.
 
-# Epilogue 
+# Epilogue
 
 Well, Ladies and Gents. This is the end. In this post, we Installed WSL and its dependencies. Installed Ubuntu and made some tweaks. You now have a work Linux env inside Windows and you can do a whole lot with it. So go out there and have some fun.
 
