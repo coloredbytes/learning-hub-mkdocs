@@ -1,5 +1,5 @@
 <figure markdown="span">
-![HEADER](/_assets/images/git.png){ width="100" height="100" }
+![HEADER](_assets/images/git.png){ width="100" height="100" }
 <figcaption>Setting up Git 🚀 </figcaption>
 </figure>
 
