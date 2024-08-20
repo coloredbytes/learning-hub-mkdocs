@@ -16,9 +16,9 @@ wsl --install --no-distribution
 ```pwsh
 wsl --set-default-version 2
 ```
-{{< notice note >}}
-You may need to download the WSL2 Kernel update. This can be found [here](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi). Afer that is installed just run the command above and then follow the guide from there.
-{{< /notice >}}
+!!! note
+    You may need to download the WSL2 Kernel update. This can be found [here](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi). Afer that is installed just run the command above and then follow the guide from there.
+
 
 ### Create .wslconfig file
 The next step is to create a `.wslconfig` file so you can add more control over WSL.
@@ -56,17 +56,17 @@ wsl --install -d Ubuntu-24.04
 user: devops
 pass: somdevops
 ```
-{{< notice note >}}
-User and Pass do not need to be that this is just an example of when it asks you.
-{{< /notice >}}
+!!! note
+    User and Pass do not need to be that this is just an example of when it asks you.
+
 
 ## Configuration of Ubuntu
 
 After You're dropped into Ubuntu. We're going to do some tweaks to the Quality of life and make WSL a little more fun.
 
-{{< notice note >}}
-These next steps should be performed as root. That can be achieved by using the command below.
-{{< /notice >}}
+!!! note
+    These next steps should be performed as root. That can be achieved by using the command below.
+
 
 ```bash
 sudo -i
