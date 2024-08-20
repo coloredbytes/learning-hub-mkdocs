@@ -1,3 +1,9 @@
+<figure markdown="span">
+![HEADER](/images/terraform.png){ width="108" height="128" }
+<figcaption> GitHub as Code. 🚀 </figcaption>
+</figure>
+
+
 ## Installing Terraform
 
 ### Windows
