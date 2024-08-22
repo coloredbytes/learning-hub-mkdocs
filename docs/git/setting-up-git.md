@@ -83,8 +83,9 @@ Once that is done follow this [Guide](https://docs.github.com/en/authentication/
 ```shell
 ssh -T git@github.com
 ```
-> [!NOTE]
-> Hi coloredbytes! You've successfully authenticated, but GitHub does not provide shell access.
+
+!!! note 
+    Hi coloredbytes! You've successfully authenticated, but GitHub does not provide shell access.
 
 If configured correctly you should get some output like this. If so congrats git is configured and we can start doing some fun stuff.
 
