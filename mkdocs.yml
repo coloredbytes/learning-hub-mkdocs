@@ -4,7 +4,7 @@ nav:
   - Home: index.md
   - Git:
     - Overview: git/index.md
-    - Setting up Git: git/git-gud.md
+    - Setting up Git: git/setting-up-git.md
   - Linux:
     - Overview: linux/index.md
     - Setting up NFS Shares: linux/mounting-drives.md
