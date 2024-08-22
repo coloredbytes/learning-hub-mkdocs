@@ -33,11 +33,11 @@ This part can be weird at times but luckily for you, I have scripted this part.
 
 - Windows
 ```pwsh
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/coloredbytes/learning-hub-mkdocs/main/assets/git-config.ps1" -OutFile "git-config.ps1"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/coloredbytes/learninghub/main/assets/git-config.ps1" -OutFile "git-config.ps1"
 ```
 - Linux (curl is os agnostic)
 ```shell
-curl -o git-config.sh "https://raw.githubusercontent.com/coloredbytes/learning-hub-mkdocs/main/assets/git-config.sh"
+curl -o git-config.sh "https://raw.githubusercontent.com/coloredbytes/learninghub/main/assets/git-config.sh"
 ```
 
 Once you have the files down for the system you're running just run the scipt by doing a
