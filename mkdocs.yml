@@ -15,7 +15,7 @@ nav:
 
 
 theme:
-    favicon: assets/images/favicon-32x32.png
+    favicon: images/favicon-32x32.png
     name: material
     features:
     - navigation.tabs
