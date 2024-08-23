@@ -16,6 +16,7 @@ nav:
 
 theme:
     favicon: images/favicon-32x32.png
+    logo: images/apple-touch-icon.png
     name: material
     features:
     - navigation.tabs
