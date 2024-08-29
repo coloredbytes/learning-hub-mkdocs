@@ -22,7 +22,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - toc.integrate
-    - navigation.top
+    - navigation.side
     - search.suggest
     - search.highlight
     - content.tabs.link
