@@ -12,6 +12,9 @@ nav:
   - Teraform:
     - Overview: terraform/index.md
     - Making a repo with Teraform: terraform/terraform-and-github.md
+  - Ansible:
+    - Overview: ansible/index.md
+    - Setting up Semaphore: ansible/semaphore.md
 
 
 theme:
