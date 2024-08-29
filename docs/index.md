@@ -6,4 +6,6 @@ Welcome to the **Jersh's Learning Barn**! This site is designed to provide pract
 
 The goal of this site is to offer clear, step-by-step guides and templates for various tasks and technologies. Whether you're setting up Git for the first time or configuring Docker stacks, you'll find useful resources here to help you get started.
 
+## Rquests
 
+IF there is something on here that you would like me to cover or something that you think I would enjoy learning. Let me know by submitting a [Feature Request](https://github.com/coloredbytes/learninghub/issues/new/choose).
