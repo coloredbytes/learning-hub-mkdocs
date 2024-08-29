@@ -43,15 +43,15 @@ theme:
         icon: material/brightness-7
         name: Switch to dark mode
 plugins:
-  # - social
+  - social
   - search
 
-# extra:
-#   social:
-#     - icon: fontawesome/brands/github-alt
-#       link: https://github.com/coloredbytes
-#     - icon: fontawesome/brands/linkedin
-#       link: https://www.linkedin.com/in/joshuamalcom/
+extra:
+   social:
+     - icon: fontawesome/brands/github-alt
+       link: https://github.com/coloredbytes
+     - icon: fontawesome/brands/linkedin
+       link: https://www.linkedin.com/in/joshuamalcom/
 
 markdown_extensions:
 
