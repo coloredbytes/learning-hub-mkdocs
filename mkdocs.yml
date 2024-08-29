@@ -52,9 +52,7 @@ plugins:
 extra:
    social:
      - icon: fontawesome/brands/github-alt
-       link: https://github.com/coloredbytes
-     - icon: fontawesome/brands/linkedin
-       link: https://www.linkedin.com/in/joshuamalcom/
+       link: https://github.com/coloredbytes/learninghub
 
 markdown_extensions:
 
