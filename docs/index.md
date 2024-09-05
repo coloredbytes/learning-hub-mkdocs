@@ -8,4 +8,4 @@ The goal of this site is to offer clear, step-by-step guides and templates for v
 
 ## Request
 
-If there is something on here that you would like me to cover or something that you think I would enjoy learning. Let me know by submitting a [Feature Request](https://github.com/coloredbytes/learninghub/issues/new/choose).
+If there is something on here that you would like me to cover or something that you think I would enjoy learning. Let me know by submitting a [Discussion](https://github.com/coloredbytes/learninghub/discussions/new?category=ideas).
