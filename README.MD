@@ -1,5 +1,8 @@
 <div align="center">
-  <a href="#">
-    <img src="https://github.com/coloredbytes/learninghub/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages" alt="pages-build-deployment"></a>
-  <img src="https://github.com/coloredbytes/learninghub/actions/workflows/pages/ci/badge.svg?branch=gh-pages" alt="pages-build-deployment" style="margin-left: 10px;">
+  <a href="https://github.com/coloredbytes/learninghub/actions/workflows/pages/pages-build-deployment">
+    <img src="https://github.com/coloredbytes/learninghub/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages" alt="pages-build-deployment">
+  </a>
+  <a href="https://github.com/coloredbytes/learninghub/actions/workflows/ci.yml">
+    <img src="https://github.com/coloredbytes/learninghub/actions/workflows/ci.yml/badge.svg" alt="CI">
+  </a>
 </div>
