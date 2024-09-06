@@ -1,5 +1,5 @@
 <figure markdown="span">
-![HEADER](/images/semaphore.png){ width="108" height="128" }
+![HEADER](https://github.com/walkxcode/dashboard-icons/blob/main/png/semaphore.png?raw=true){ width="108" height="128" }
 <figcaption> Automation the ez way. 🚀 </figcaption>
 </figure>
 
