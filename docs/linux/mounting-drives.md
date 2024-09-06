@@ -1,5 +1,5 @@
 <figure markdown="span">
-![HEADER](/images/tux.png){ width="108" height="128" }
+![HEADER](https://github.com/coloredbytes/learninghub/blob/2263842810983a403a5dc6b52becc11f2be0fc9c/docs/images/tux.png?raw=true){ width="108" height="128" }
 <figcaption> Mounting an NFS share. 🚀 </figcaption>
 </figure>
 

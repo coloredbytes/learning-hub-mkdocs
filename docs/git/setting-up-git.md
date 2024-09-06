@@ -1,5 +1,5 @@
 <figure markdown="span">
-![HEADER](/images/git.png){ width="100" height="100" }
+![HEADER](https://github.com/coloredbytes/learninghub/blob/2263842810983a403a5dc6b52becc11f2be0fc9c/docs/images/git.png?raw=true){ width="100" height="100" }
 <figcaption>Setting up Git 🚀 </figcaption>
 </figure>
 

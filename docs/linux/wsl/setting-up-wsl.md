@@ -1,5 +1,5 @@
 <figure markdown="span">
-![HEADER](/images/windows-linux-dev-env.png){ width="269" height="151" }
+![HEADER](https://github.com/coloredbytes/learninghub/blob/2263842810983a403a5dc6b52becc11f2be0fc9c/docs/images/windows-linux-dev-env.png?raw=true){ width="269" height="151" }
 <figcaption>Setting up WSL 🚀 </figcaption>
 </figure>
 

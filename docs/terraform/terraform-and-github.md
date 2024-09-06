@@ -1,5 +1,5 @@
 <figure markdown="span">
-![HEADER](images/terraform.png){ width="108" height="128" }
+![HEADER](https://github.com/coloredbytes/learninghub/blob/2263842810983a403a5dc6b52becc11f2be0fc9c/docs/images/terraform.png?raw=true){ width="108" height="128" }
 <figcaption> GitHub as Code. 🚀 </figcaption>
 </figure>
 
