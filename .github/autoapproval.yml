@@ -1,0 +1,10 @@
+from_owner:
+  - renovate[bot]
+  - coloredbytes
+
+required_labels:
+  - ready
+  - opened
+
+apply_labels:
+  - merge
