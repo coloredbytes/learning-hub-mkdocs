@@ -1,5 +1,5 @@
 site_name: "Jersh's Learning Barn"
-site_url: https://learn.rossjm.dev/
+site_url: https://rossjm.dev/learninghub/
 nav:
   - Home: index.md
   - Git:
